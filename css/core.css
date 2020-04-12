@@ -12,6 +12,12 @@ html {
 
 body {
   min-width: 320px;
-  width: 100%;
+  max-width: 100%;
   overflow-wrap: break-word;
+}
+
+.wrap {
+  max-width: 1170px;
+  padding: 0 15px;
+  margin: 0 auto;
 }

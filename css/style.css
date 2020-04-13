@@ -2,9 +2,14 @@
 
 @import url("fonts/fonts.css");
 @import url("blocks/header.css");
+@import url("blocks/home.css");
 
 ul, li {
   display: block;
   padding: 0;
   margin: 0;
+}
+
+body {
+  font-family: "Montserrat-bold";
 }

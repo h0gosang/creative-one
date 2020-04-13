@@ -1,0 +1,55 @@
+.home {
+  padding: 245px 0;
+  background: url(../../images/home-background1.jpg) no-repeat center;
+  background-size: cover;
+}
+
+.home__subtitle {
+  color: #fff;
+  font-family: "Montserrat-bold";
+  text-shadow: 2px 2px 1px #000;
+  text-transform: uppercase;
+  font-size: 31px;
+}
+
+.theme {
+  color: #18cfab;
+}
+
+.home__title {
+  color: #fff;
+  font-size: 71px;
+  text-shadow: 2px 2px 1px #000;
+  text-transform: uppercase;
+  font-family: "Montserrat-bold";
+}
+
+.home__text {
+  text-shadow: 2px 2px 1px #000;
+  text-transform: capitalize;
+  font-family: "Montserrat-light";
+  color: #fff;
+  font-size: 30px;
+}
+
+.button {
+  width: 155px;
+  padding: 20px 25px;
+  margin: 0 15px;
+  text-transform: uppercase;
+  color: #fff;
+  background: transparent;
+  border: none;
+  border-top: 4px solid #fff;
+  border-radius: 8px;
+  transition: .3s;
+  font-size: 13px;
+}
+
+.button-origin {
+  background: #18cfab;
+}
+
+.button-blue {
+  background: #00cbf6;
+}

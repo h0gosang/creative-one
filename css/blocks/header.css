@@ -35,6 +35,16 @@
   background: #18cfab;
 }
 
+.active:after {
+  content: '';
+  position: absolute;
+  top: calc(100% + 20px);
+  left: 0;
+  width: 100%;
+  height: 3px;
+  background: #18cfab;
+}
+
 .menu__item:last-child {
   margin-left: 30px;
 }

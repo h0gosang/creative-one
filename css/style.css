@@ -1,5 +1,10 @@
 /* connection css files */
 
-@import url("core.css");
 @import url("fonts/fonts.css");
-@import url("blocks/header-nav.css");
+@import url("blocks/header.css");
+
+ul, li {
+  display: block;
+  padding: 0;
+  margin: 0;
+}
